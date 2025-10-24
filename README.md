@@ -1,6 +1,5 @@
 <<<<<<< HEAD
-# organized-downloads
-=======
+
 # Organized Downloads
 
 A Python script to automatically organize your Downloads folder by file type.
